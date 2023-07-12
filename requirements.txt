@@ -5,3 +5,4 @@ cloudscraper
 requests
 flask
 bs4
+lxml
