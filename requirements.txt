@@ -4,3 +4,4 @@ animeflv
 cloudscraper
 requests
 flask
+bs4
