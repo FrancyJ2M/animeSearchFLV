@@ -1,0 +1,6 @@
+Pyrogram
+TgCrypto
+animeflv
+cloudscraper
+requests
+flask
